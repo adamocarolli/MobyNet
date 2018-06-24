@@ -8,6 +8,10 @@ To aid whale conservation efforts, scientists use photo surveillance systems to 
 
 The idea for the project came from Kaggle's [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground). The data and problem are provided by [Happy Whale](https://happywhale.com/).
 
+## Acknowledgements
+
 The approach used to solve this problem is based on research by Google Deepmind. The paper can be read here: [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf).
+
+The original code for the project stems from [Mark Dong's](https://github.com/markdtw) implementation of [Matching Networks](https://github.com/markdtw/matching-networks). 
 
 An additional approach considered for this problem is based on research by the University of Toronto. This can be found here [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf).
