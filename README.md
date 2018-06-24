@@ -1,5 +1,7 @@
 # MobyNet
 
+[![Humpback Whale Identification Challenge](./misc/header.png)](https://www.kaggle.com/c/whale-categorization-playground)
+
 MobyNet is an image classifier that aims to identify an individual humpback whale by a picture of its fluke.
 
 After centuries of intense whaling, recovering whale populations still have a hard time adapting to warming oceans and struggle to compete every day with the industrial fishing industry for food.
@@ -12,6 +14,6 @@ The idea for the project came from Kaggle's [Humpback Whale Identification Chall
 
 The approach used to solve this problem is based on research by Google Deepmind. The paper can be read here: [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf).
 
-The original code for the project stems from [Mark Dong's](https://github.com/markdtw) implementation of [Matching Networks](https://github.com/markdtw/matching-networks). 
+The original code for the project stems from [Mark Dong's](https://github.com/markdtw) implementation of [Matching Networks](https://github.com/markdtw/matching-networks).
 
 An additional approach considered for this problem is based on research by the University of Toronto. This can be found here [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf).
